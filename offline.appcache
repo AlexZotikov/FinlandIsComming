@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1509064523
+#1509146698
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -41,7 +41,6 @@ images/start_button_next-sheet0.png
 images/start_button_start-sheet0.png
 images/start_button_girl-sheet0.png
 images/start_button_boy-sheet0.png
-images/end_photo-sheet0.png
 images/clothes_cowboy_boots_3_f-sheet0.png
 images/clothes_cowboy_gloves_3_d-sheet0.png
 images/clothes_cowboy_hat_1_a-sheet0.png
@@ -85,11 +84,16 @@ images/main_comfort_text-sheet0.png
 images/main_fashion_text-sheet0.png
 images/main_comfort_bar-sheet0.png
 images/main_fashion_bar-sheet0.png
-images/end_text_warm-sheet0.png
-images/end_text_ok-sheet0.png
+images/end_background-sheet0.png
+images/end_button_restart-sheet0.png
+images/end_text_cold_ugly-sheet0.png
+images/mobile_text-sheet0.png
+images/end_text_cold_style-sheet0.png
+images/end_text_warm_style-sheet0.png
+images/end_text_warm_ugly-sheet0.png
 images/end_text_almost-sheet0.png
-images/end_text_cold-sheet0.png
-images/end_text_style-sheet0.png
+images/end_text_ok_style-sheet0.png
+images/end_text_ok_ugly-sheet0.png
 media/main%20song.m4a
 media/main%20song.ogg
 icon-16.png
